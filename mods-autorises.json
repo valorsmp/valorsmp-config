@@ -2,6 +2,7 @@
   "version": "1.0",
   "mods_autorises": [
     "fabric-api-0.110.0+1.21.4.jar",
+    "valorsmp-auth-1.0.0.jar",
     "valorsmp-auth-1.0.0.jar"
   ]
 }
